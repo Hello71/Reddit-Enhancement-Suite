@@ -1,4 +1,7 @@
-IE/RESIE.sdf
+IE/*.sdf
+IE/Debug/
+IE/Release/
+IE/ipch
 Chrome.pem
 XPI/reddit_res.xpi
 
